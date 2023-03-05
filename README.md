@@ -1,6 +1,8 @@
 # Sheets
 
-<img src="https://raw.githubusercontent.com/mr-josh/sheets/main/www/public/Icon.png" alt="sheets icon" style="height: 20rem; width: 100%; object-fit: contain;">
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/mr-josh/sheets/main/www/public/Icon.png" alt="sheets icon" style="height: 20rem">
+</div>
 
 A small desktop overlay for keeping quick notes and cheat sheets readily available.
 
