@@ -10,7 +10,7 @@
       "script": "npm run dev"
     },
     "devPath": "http://localhost:3000",
-    "distDir": "../www"
+    "distDir": "../www/dist"
   },
   "package": {
     "productName": "sheets",
