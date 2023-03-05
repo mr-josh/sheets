@@ -6,6 +6,10 @@
 
 A small desktop overlay for keeping quick notes and cheat sheets readily available.
 
+## Downloads
+
+Head over to [releases](https://github.com/mr-josh/sheets/releases) for the downloads.
+
 ## What's this for?
 
 This little tool was made especially for new programmers who are still building that muscle memory with things such as syntax, terminal commands, terminology, and more. Specifically this has been made with my students in mind (hi kids, I hope your code isn't broken).
